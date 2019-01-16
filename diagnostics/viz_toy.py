@@ -121,7 +121,7 @@ def save_trajectory(model, data_samples, savedir, ntimes=101, memory=0.01, devic
                 ax.set_title("Vector Field", fontsize=32)
 
                 makedirs(savedir)
-                plt.savefig(os.path.join(savedir, f"viz-{t:05d}.jpg"))
+                plt.savefig(os.path.join(savedir, "viz-{:05d}.jpg".format(t)))
                 t += 1
 
 
