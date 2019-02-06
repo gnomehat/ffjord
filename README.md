@@ -1,5 +1,8 @@
 # Free-form Jacobian of Reversible Dynamics (FFJORD)
 
+ *Compatible with Gnomehat*
+
+
 Code for reproducing the experiments in the paper:
 
 > Will Grathwohl*, Ricky T. Q. Chen*, Jesse Bettencourt, Ilya Sutskever, David Duvenaud. "FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models." _International Conference on Learning Representations_ (2019).

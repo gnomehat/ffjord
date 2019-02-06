@@ -1,0 +1,7 @@
+torch
+pandas
+seaborn
+scipy
+matplotlib
+h5py
+git+https://github.com/rtqichen/torchdiffeq
